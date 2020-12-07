@@ -2,6 +2,7 @@
 
 
 <!--START_SECTION:waka-->
+![Chart not found](https://github.com/ianlikono/ianlikono/main/charts/bar_graph.png) 
 <!--END_SECTION:waka-->
 
 
