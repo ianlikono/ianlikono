@@ -47,13 +47,14 @@ Sunday       4 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Menominee
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               8 mins              ███████████████████████░░   92.8% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.2%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.0%
 
 ```
 
