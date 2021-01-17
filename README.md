@@ -8,7 +8,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 20 Contributions in the Year 2021
+> 🏆 23 Contributions in the Year 2021
  > 
 > 📦 535.2 kB Used in Github's Storage 
  > 
@@ -76,7 +76,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ianlikono/ianlikono/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ianlikono/ianlikono/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
