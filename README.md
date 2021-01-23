@@ -82,4 +82,18 @@ Dart                     5 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/ianlikono/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/ianlikono/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/ianlikono/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<a href="https://github.com/ianlikono">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianlikono&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Likono's github stats" />
+</a>
+<a href="https://github.com/ianlikono">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ianlikono&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/ianlikono">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ianlikono&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://ianlikono.herokuapp.com">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ianlikono&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
