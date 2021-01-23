@@ -89,11 +89,3 @@ Dart                     5 repos             █░░░░░░░░░░�
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ianlikono&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/ianlikono">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ianlikono&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://ianlikono.herokuapp.com">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ianlikono&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
