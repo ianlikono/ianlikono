@@ -47,17 +47,13 @@ Sunday       35 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Menominee
 
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        ████████████████░░░░░░░░░   66.41% 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
-GraphQL                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Java                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
-Objective-C              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,7 +74,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ianlikono/ianlikono/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
 
 
