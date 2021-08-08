@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -60,10 +60,10 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               37 repos            █████████░░░░░░░░░░░░░░░░   38.95% 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               39 repos            ██████████░░░░░░░░░░░░░░░   41.05% 
+TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
+HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
 Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
-HTML                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
 Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
@@ -74,7 +74,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ianlikono/ianlikono/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
 
 
