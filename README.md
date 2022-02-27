@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Million%20lines%20of%20code-blue)
 
@@ -74,7 +74,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ianlikono/ianlikono/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 00:20:55 UTC
+ Last Updated on 27/02/2022 00:22:55 UTC
 <!--END_SECTION:waka-->
 
 
