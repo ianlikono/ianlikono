@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -76,7 +76,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ianlikono/ianlikono/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/05/2022 00:27:31 UTC
+ Last Updated on 13/05/2022 00:28:10 UTC
 <!--END_SECTION:waka-->
 
 
