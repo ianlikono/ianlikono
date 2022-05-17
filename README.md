@@ -76,7 +76,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ianlikono/ianlikono/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 00:26:36 UTC
+ Last Updated on 17/05/2022 00:27:50 UTC
 <!--END_SECTION:waka-->
 
 
